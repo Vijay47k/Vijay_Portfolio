@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vijay_Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Vijay_Portfolio/static/js/main.ef912214.js",
+    "static/media/LightMode.jpeg": "/Vijay_Portfolio/static/media/LightMode.a98a972d4513447eefbb.jpeg",
+    "static/media/Darkmode.jpeg": "/Vijay_Portfolio/static/media/Darkmode.98a7e4382dbcf8415b93.jpeg",
+    "index.html": "/Vijay_Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Vijay_Portfolio/static/css/main.bf538fe7.css.map",
+    "main.ef912214.js.map": "/Vijay_Portfolio/static/js/main.ef912214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.ef912214.js"
+  ]
+}
